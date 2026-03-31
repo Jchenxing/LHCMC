@@ -1,1 +1,1 @@
-# Awesome-Manifold-Clustering
+# Local Hyperplane-Constrained Self-Representation for Manifold Clustering
